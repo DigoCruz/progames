@@ -1,0 +1,6 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\07-RepeticaoDo\07-RepeticaoDo\bin\Debug\07-RepeticaoDo.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\07-RepeticaoDo\07-RepeticaoDo\bin\Debug\07-RepeticaoDo.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\07-RepeticaoDo\07-RepeticaoDo\bin\Debug\07-RepeticaoDo.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\07-RepeticaoDo\07-RepeticaoDo\obj\Debug\07-RepeticaoDo.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\OneDrive\Fiap\csharp\07-RepeticaoDo\07-RepeticaoDo\obj\Debug\07-RepeticaoDo.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\07-RepeticaoDo\07-RepeticaoDo\obj\Debug\07-RepeticaoDo.pdb

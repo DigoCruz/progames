@@ -1,0 +1,6 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\01-Exercicio-HelloWorld\01-Exercicio-HelloWorld\bin\Debug\01-Exercicio-HelloWorld.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\01-Exercicio-HelloWorld\01-Exercicio-HelloWorld\obj\Debug\01-Exercicio-HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\OneDrive\Fiap\csharp\01-Exercicio-HelloWorld\01-Exercicio-HelloWorld\bin\Debug\01-Exercicio-HelloWorld.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\01-Exercicio-HelloWorld\01-Exercicio-HelloWorld\bin\Debug\01-Exercicio-HelloWorld.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\01-Exercicio-HelloWorld\01-Exercicio-HelloWorld\obj\Debug\01-Exercicio-HelloWorld.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\01-Exercicio-HelloWorld\01-Exercicio-HelloWorld\obj\Debug\01-Exercicio-HelloWorld.pdb

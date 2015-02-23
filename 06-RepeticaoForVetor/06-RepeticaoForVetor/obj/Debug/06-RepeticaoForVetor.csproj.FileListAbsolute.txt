@@ -1,0 +1,5 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\06-RepeticaoForVetor\06-RepeticaoForVetor\bin\Debug\06-RepeticaoForVetor.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\06-RepeticaoForVetor\06-RepeticaoForVetor\bin\Debug\06-RepeticaoForVetor.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\06-RepeticaoForVetor\06-RepeticaoForVetor\bin\Debug\06-RepeticaoForVetor.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\06-RepeticaoForVetor\06-RepeticaoForVetor\obj\Debug\06-RepeticaoForVetor.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\06-RepeticaoForVetor\06-RepeticaoForVetor\obj\Debug\06-RepeticaoForVetor.pdb

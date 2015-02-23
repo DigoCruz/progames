@@ -1,0 +1,6 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\08-DataHora\08-DataHora\bin\Debug\08-DataHora.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\08-DataHora\08-DataHora\bin\Debug\08-DataHora.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\08-DataHora\08-DataHora\bin\Debug\08-DataHora.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\08-DataHora\08-DataHora\obj\Debug\08-DataHora.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\OneDrive\Fiap\csharp\08-DataHora\08-DataHora\obj\Debug\08-DataHora.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\08-DataHora\08-DataHora\obj\Debug\08-DataHora.pdb

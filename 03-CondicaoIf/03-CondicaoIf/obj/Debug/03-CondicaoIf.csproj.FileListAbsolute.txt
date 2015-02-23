@@ -1,0 +1,6 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\03-CondicaoIf\03-CondicaoIf\bin\Debug\03-CondicaoIf.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\03-CondicaoIf\03-CondicaoIf\bin\Debug\03-CondicaoIf.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\03-CondicaoIf\03-CondicaoIf\bin\Debug\03-CondicaoIf.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\03-CondicaoIf\03-CondicaoIf\obj\Debug\03-CondicaoIf.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\OneDrive\Fiap\csharp\03-CondicaoIf\03-CondicaoIf\obj\Debug\03-CondicaoIf.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\03-CondicaoIf\03-CondicaoIf\obj\Debug\03-CondicaoIf.pdb

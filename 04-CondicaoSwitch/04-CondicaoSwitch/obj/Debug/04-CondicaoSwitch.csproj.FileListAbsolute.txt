@@ -1,0 +1,9 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\bin\Debug\04-CondicaoSwitch.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\obj\Debug\04-CondicaoSwitch.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo\OneDrive\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\bin\Debug\04-CondicaoSwitch.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\bin\Debug\04-CondicaoSwitch.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\obj\Debug\04-CondicaoSwitch.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\obj\Debug\04-CondicaoSwitch.pdb
+E:\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\bin\Debug\04-CondicaoSwitch.exe.config
+E:\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\obj\Debug\04-CondicaoSwitch.exe
+E:\Fiap\csharp\04-CondicaoSwitch\04-CondicaoSwitch\obj\Debug\04-CondicaoSwitch.pdb

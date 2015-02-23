@@ -1,0 +1,5 @@
+C:\Users\rodrigo\OneDrive\Fiap\csharp\05-RepeticaoWhile\05-RepeticaoWhile\bin\Debug\05-RepeticaoWhile.exe.config
+C:\Users\rodrigo\OneDrive\Fiap\csharp\05-RepeticaoWhile\05-RepeticaoWhile\bin\Debug\05-RepeticaoWhile.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\05-RepeticaoWhile\05-RepeticaoWhile\bin\Debug\05-RepeticaoWhile.pdb
+C:\Users\rodrigo\OneDrive\Fiap\csharp\05-RepeticaoWhile\05-RepeticaoWhile\obj\Debug\05-RepeticaoWhile.exe
+C:\Users\rodrigo\OneDrive\Fiap\csharp\05-RepeticaoWhile\05-RepeticaoWhile\obj\Debug\05-RepeticaoWhile.pdb
